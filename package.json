@@ -1,5 +1,5 @@
 {
-  "name": "@procorp.dev/eslint-config-react",
+  "name": "@procorp-dev/eslint-config-react",
   "version": "1.0.0",
   "description": "ESLint config for React projects from Procorp.dev",
   "main": "index.js",
